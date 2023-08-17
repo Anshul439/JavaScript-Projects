@@ -1,0 +1,42 @@
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Roboto";
+}
+
+.button {
+  padding: 20px 30px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.row {
+  margin: 8px 0;
+}
+
+.input {
+  font-size: 17px;
+  margin: 0;
+  padding: 10px 12px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mx-auto {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
